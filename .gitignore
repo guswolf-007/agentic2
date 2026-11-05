@@ -1,0 +1,25 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+.langgraph_api/
+.pytest_cache/
+*.py[cod]
+.DS_Store
+
+# Datos locales (los fixtures versionados, como tests/casos_router.json, se conservan)
+data/
+datasets/
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.parquet
+*.db
+*.sqlite
+*.sqlite3
+*.pkl
+*.pickle
+*.jsonl
+*.ndjson
