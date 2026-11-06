@@ -2,7 +2,8 @@
 
 Agente LangGraph para enrutar mensajes de un chat de ecommerce a `preventa`,
 `postventa` o `generica`. Incluye una API FastAPI, memoria de conversación por
-`thread_id`, una suite de 15 casos de clasificación y una colección Bruno.
+`thread_id`, una suite de 15 casos de clasificación y una colección Bruno. Este es
+el código Agentic de la clase del 5 de noviembre (`agentic2`).
 
 ## Requisitos y configuración local
 
